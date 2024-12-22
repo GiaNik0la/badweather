@@ -9,7 +9,7 @@ int main(int argc, char **argv) {
 		return 1;
 	}
 
-	const char* API_KEY = "";
+	const char* API_KEY = "PUT YOUR API KEY HERE";
 	char* url = malloc(sizeof(char) * 100);
 
 	snprintf(url, 100, "http://api.weatherapi.com/v1/current.json?key=%s&q=%s,%s&aqi=no",
