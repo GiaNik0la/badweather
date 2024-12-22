@@ -1,0 +1,3 @@
+/home/arti/C/weather/build/CMakeFiles/weather.dir
+/home/arti/C/weather/build/CMakeFiles/edit_cache.dir
+/home/arti/C/weather/build/CMakeFiles/rebuild_cache.dir
