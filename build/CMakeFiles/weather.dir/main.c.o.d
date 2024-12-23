@@ -56,4 +56,5 @@ CMakeFiles/weather.dir/main.c.o: /home/arti/C/weather/main.c \
  /usr/include/curl/urlapi.h /usr/include/curl/options.h \
  /usr/include/curl/header.h /usr/include/curl/websockets.h \
  /usr/include/curl/mprintf.h /usr/include/curl/typecheck-gcc.h \
- /usr/include/string.h /usr/include/strings.h
+ /usr/include/string.h /usr/include/strings.h \
+ /usr/local/include/cjson/cJSON.h

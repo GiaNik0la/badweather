@@ -68,7 +68,6 @@ CMakeFiles/weather.dir/main.c.o
  /usr/include/bits/waitflags.h
  /usr/include/bits/waitstatus.h
  /usr/include/bits/wordsize.h
- /usr/include/ctype.h
  /usr/include/curl/curl.h
  /usr/include/curl/curlver.h
  /usr/include/curl/easy.h
@@ -102,9 +101,9 @@ CMakeFiles/weather.dir/main.c.o
  /usr/include/time.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/limits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/syslimits.h
+ /usr/local/include/cjson/cJSON.h
 
 weather
  /usr/lib/libc.so

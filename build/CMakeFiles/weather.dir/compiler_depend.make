@@ -67,7 +67,6 @@ CMakeFiles/weather.dir/main.c.o: /home/arti/C/weather/main.c \
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wordsize.h \
-  /usr/include/ctype.h \
   /usr/include/curl/curl.h \
   /usr/include/curl/curlver.h \
   /usr/include/curl/easy.h \
@@ -101,9 +100,9 @@ CMakeFiles/weather.dir/main.c.o: /home/arti/C/weather/main.c \
   /usr/include/time.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/limits.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/syslimits.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/syslimits.h \
+  /usr/local/include/cjson/cJSON.h
 
 weather: /usr/lib/libc.so \
   /usr/lib/libgcc_s.so \
@@ -141,6 +140,8 @@ weather: /usr/lib/libc.so \
 
 /usr/lib/libnghttp3.so.9:
 
+/usr/lib/libkrb5.so.3:
+
 /usr/lib/libgssapi_krb5.so.2:
 
 /usr/lib/libcrypto.so.3:
@@ -149,9 +150,9 @@ weather: /usr/lib/libc.so \
 
 /usr/lib/ld-linux-x86-64.so.2:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/syslimits.h:
+/usr/local/include/cjson/cJSON.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdbool.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/syslimits.h:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h:
 
@@ -194,10 +195,6 @@ weather: /usr/lib/libc.so \
 /usr/include/curl/curlver.h:
 
 /usr/include/curl/curl.h:
-
-/usr/lib/libkrb5.so.3:
-
-/usr/include/ctype.h:
 
 /usr/include/bits/wordsize.h:
 
