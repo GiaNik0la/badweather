@@ -16,6 +16,7 @@ weather: \
   /usr/lib/libzstd.so.1 \
   /usr/lib/libbrotlidec.so.1 \
   /usr/lib/libz.so.1 \
+  /usr/lib/libm.so.6 \
   /usr/lib/ld-linux-x86-64.so.2 \
   /usr/lib/libunistring.so.5 \
   /usr/lib/libkrb5.so.3 \
@@ -59,6 +60,8 @@ weather: \
 /usr/lib/libbrotlidec.so.1:
 
 /usr/lib/libz.so.1:
+
+/usr/lib/libm.so.6:
 
 /usr/lib/ld-linux-x86-64.so.2:
 

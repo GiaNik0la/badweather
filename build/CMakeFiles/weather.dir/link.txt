@@ -1,1 +1,1 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/weather.dir/link.d CMakeFiles/weather.dir/main.c.o -o weather  -lcurl
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/weather.dir/link.d CMakeFiles/weather.dir/main.c.o -o weather  -lcurl -lcjson

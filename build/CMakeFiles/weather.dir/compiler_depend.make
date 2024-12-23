@@ -117,6 +117,7 @@ weather: /usr/lib/libc.so \
   /usr/lib/libkeyutils.so.1 \
   /usr/lib/libkrb5.so.3 \
   /usr/lib/libkrb5support.so.0 \
+  /usr/lib/libm.so.6 \
   /usr/lib/libnghttp2.so.14 \
   /usr/lib/libnghttp3.so.9 \
   /usr/lib/libpsl.so.5 \
@@ -183,6 +184,8 @@ weather: /usr/lib/libc.so \
 /usr/include/curl/options.h:
 
 /usr/lib/libnghttp2.so.14:
+
+/usr/lib/libm.so.6:
 
 /usr/include/sys/select.h:
 
