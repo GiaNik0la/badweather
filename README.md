@@ -7,3 +7,6 @@ and
 
 # Usage
 `./weather {latitude} {longitude}`
+
+# Cool picture of Weather Report
+![weather report](https://static.wikia.nocookie.net/jjba/images/c/c7/Weather_report_profile.png/revision/latest?cb=20230202132139)
